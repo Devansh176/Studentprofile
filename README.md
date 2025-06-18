@@ -54,7 +54,7 @@ This is a basic **Spring Boot** application that provides functionality for stud
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/student-profile-springboot.git
+git clone https://github.com/Devansh176/Studentprofile.git
 cd student-profile-springboot
 
 # 2. Build the project
